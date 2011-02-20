@@ -9,8 +9,10 @@ In the sbt shell execute:
     sbt run bblaine
 
 #Output
+<pre>
     bblaine - 1 followers - 3 public repositories
     IB-TWS-Scala                         2     watchers            1        forks       
     Vain                                       1     watchers            1        forks       
     portable-config                        1     watchers            1        forks  
+</pre>
 
