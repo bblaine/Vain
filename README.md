@@ -10,6 +10,7 @@ In the sbt shell execute:
 
 #Output
     bblaine - 1 followers - 3 public repositories
-    IB-TWS-Scala                         2     watchers            1        forks       
-    Vain                                       1     watchers            1        forks       
-    portable-config                        1     watchers            1        forks  
+    IB-TWS-Scala                            2     watchers            1        forks       
+    Vain                                    1     watchers            1        forks       
+    portable-config                         1     watchers            1        forks  
+
