@@ -13,4 +13,3 @@ In the sbt shell execute:
     IB-TWS-Scala                         2     watchers            1        forks       
     Vain                                       1     watchers            1        forks       
     portable-config                        1     watchers            1        forks  
-
