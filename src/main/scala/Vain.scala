@@ -4,7 +4,7 @@ import net.liftweb.json.JsonAST._
 import net.liftweb.json.JsonParser._
 import scala.collection.mutable.ListBuffer
 
-case class Repository(has_downloads: Boolean, watchers: Int, url: String, homepage: String, has_wiki: Boolean, fork: Boolean, forks: Int, created_at: Option[Date], size: Int, private_repo: Option[Boolean], open_issues: Int, pushed_at: Option[Date], name: String, owner: String, has_issues: Boolean, description: String)
+case class Repository(has_downloads: Boolean, watchers: Int, url: String, has_wiki: Boolean, fork: Boolean, forks: Int, created_at: Option[Date], size: Int, private_repo: Option[Boolean], open_issues: Int, pushed_at: Option[Date], name: String, owner: String, has_issues: Boolean)
 case class Repositories(repos: List[Repository])
 
 object Main {
